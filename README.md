@@ -61,3 +61,27 @@ Lien du rendu figma : [Lien](https://www.figma.com/proto/fpAbUTWgeRs9mGyTIiOYjK/
 | La maquette | Le code | la version en ligne|
 |-----------|-----------|-----------|
 | [Lien ](https://www.figma.com/file/bAnXDNqRKCRRP8mY2gcb5p/UI-Design-Kasa-FR?node-id=4%3A1&t=O2WKZG1J4ndaChm7-0)|[Lien](https://github.com/Kilian06/opc-11-kasa)| [Lien](https://opc-11-kasa.vercel.app/) |
+
+#### Projet N°9 : Développez un tableau de bord d'analytics avec React
+
+| La maquette | Le code | la version en ligne|
+|-----------|-----------|-----------|
+| [Lien ](https://www.figma.com/file/BMomGVZqLZb811mDMShpLu/UI-design-Sportify-FR?node-id=0%3A1)|[Lien](https://github.com/Kilian06/OPC-Projet-12)| [Lien](https://opc-projet-12-ncdoz04dn-kilian06.vercel.app/) (selectionner un user Mock)|
+
+#### Projet N°10 : Utilisez une API pour un compte utilisateur bancaire avec React
+
+| La maquette | Le code|
+|-----------|-----------|
+| [Lien ](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API/tree/master/designs)|[Lien](https://github.com/Kilian06/Projet-13-OPC)|
+
+#### Projet N11 : Faites passer une librairie jQuery vers React
+
+| La maquette | Le code | la version en ligne|
+|-----------|-----------|-----------|
+| [Lien ]( https://kilian06.github.io/Jquery-14-OPC/)|[Lien](https://github.com/Kilian06/Projet-14-OPC)| [Lien](https://projet-14-opc.vercel.app/)|
+
+#  Sides project
+
+### Création d'un site permettant de visualiser l'ensemble des streaming en cours sur le server 21JumpClick [Lien](https://21jumplive.vercel.app/)
+
+### Création d'un outil de compte à rebour [Lien](https://count-down-five.vercel.app/)
