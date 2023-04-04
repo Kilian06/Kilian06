@@ -74,7 +74,7 @@ Lien du rendu figma : [Lien](https://www.figma.com/proto/fpAbUTWgeRs9mGyTIiOYjK/
 |-----------|-----------|
 | [Lien ](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API/tree/master/designs)|[Lien](https://github.com/Kilian06/Projet-13-OPC)|
 
-#### Projet N11 : Faites passer une librairie jQuery vers React
+#### Projet N°11 : Faites passer une librairie jQuery vers React
 
 | La maquette | Le code | la version en ligne|
 |-----------|-----------|-----------|
