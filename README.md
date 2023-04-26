@@ -82,6 +82,5 @@ Lien du rendu figma : [Lien](https://www.figma.com/proto/fpAbUTWgeRs9mGyTIiOYjK/
 
 #  Sides project
 
-### Création d'un site permettant de visualiser l'ensemble des streaming en cours sur le server 21JumpClick [Lien](https://21jumplive.vercel.app/)
 
 ### Création d'un outil de compte à rebour [Lien](https://count-down-five.vercel.app/)
