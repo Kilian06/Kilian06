@@ -82,7 +82,4 @@ Lien du rendu figma : [Lien](https://www.figma.com/proto/fpAbUTWgeRs9mGyTIiOYjK/
 |-----------|-----------|-----------|
 | [Lien ]( https://kilian06.github.io/Jquery-14-OPC/)|[Lien](https://github.com/Kilian06/Projet-14-OPC)| [Lien](https://projet-14-opc.vercel.app/)|
 
-#  Sides project
-
-
-### Création d'un outil de compte à rebour [Lien](https://count-down-five.vercel.app/)
+#  Plus de projet sur mon site : [Lien](https://kilianleroy.fr/)
